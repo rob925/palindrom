@@ -7,5 +7,5 @@ int main() {
     cin >> a;
 
 
-    cout << a+1;
+    cout << "Hello World!";
 }
